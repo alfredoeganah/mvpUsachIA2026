@@ -4,9 +4,8 @@ Este repositorio es un **wiki mantenido por LLM** sobre el territorio de la comu
 Hualaihué (Región de Los Lagos, Chile) y sobre el proyecto MVP USACH IA 2026 que lo usa
 como caso de estudio. Sigue el patrón descrito en [[Prompts]].
 
-**Regla base: el humano cura fuentes y hace preguntas; el LLM escribe y mantiene todo el wiki.**
+##### ==**Regla base: el humano agrega fuentes y hace preguntas; el LLM escribe y mantiene todo el wiki.**==
 
-## Idioma
 
 Todo el wiki se escribe en **español**. Los nombres de archivo van en kebab-case sin tildes
 (`parque-nacional-hornopiren.md`), pero el título H1 y los enlaces `[[...]]` usan el nombre
