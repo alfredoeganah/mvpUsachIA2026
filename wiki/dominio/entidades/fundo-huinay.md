@@ -2,7 +2,7 @@
 tipo: entidad
 subtipo: area-protegida
 tags: [hualaihue, conservacion, conservacion-privada, huinay]
-fuentes: ["[[2026-09-20-osm-hualaihue1]]"]
+fuentes: ["[[2026-09-20-osm-hualaihue1]]", "[[2026-09-20-osm-hualaihue2]]"]
 osm: relation/7782997
 wikidata: Q5871300
 actualizado: 2026-09-20
@@ -34,6 +34,14 @@ protegidas sin `protect_class` asignada** en OSM, coherente con que la conservac
 en Chile no calzaba en las categorías clásicas hasta el SBAP. Ver
 [[figuras-de-proteccion-chile]].
 
+## Población dentro
+
+El caserío de [[huinay|Huinay]] (**35 hab**, INE 2017) cae dentro del polígono del fundo,
+junto con la capilla San Ignacio. Es el **único caso del territorio en que una localidad
+habitada queda dentro de un área de conservación privada** — y, fuera de la Reserva de la
+Biósfera, el único caso de población dentro de cualquier área protegida de la comuna. Ver
+[[poblacion-en-areas-protegidas]].
+
 ## Relaciones
 
 - Forma unidad mar-tierra con la [[amcp-fiordo-comau|AMCP Fiordo Comau]], administrada por la
@@ -44,4 +52,4 @@ en Chile no calzaba en las categorías clásicas hasta el SBAP. Ver
 
 ## Fuentes
 
-- [[2026-09-20-osm-hualaihue1]]
+- [[2026-09-20-osm-hualaihue1]] · [[2026-09-20-osm-hualaihue2]]

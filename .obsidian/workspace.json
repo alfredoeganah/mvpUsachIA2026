@@ -4,124 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "15b2b405796f2dbb",
-        "type": "split",
+        "id": "cd7a88153a32567b",
+        "type": "tabs",
         "children": [
           {
-            "id": "cd7a88153a32567b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ee1bcf9fc4fcae3b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/alfredoegana/DEV/obsidian/mvpUsachAI2026/mvpUsachIA2026",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "environment": [],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "darwinIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
+            "id": "ee1bcf9fc4fcae3b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/alfredoegana/DEV/obsidian/mvpUsachAI2026/mvpUsachIA2026",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "environment": [],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "◑ LLM Wiki pattern"
+                  "profileSourceId": "darwinIntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
                 }
               },
-              {
-                "id": "48a3ca3d08e572a9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/alfredoegana/DEV/obsidian/mvpUsachAI2026/mvpUsachIA2026",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "environment": [],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "darwinIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "zsh"
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true,
+              "icon": "terminal",
+              "title": "✳ LLM Wiki pattern"
+            }
           },
           {
-            "id": "6682d598a6bf4d53",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a68e04731dfbd773",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
+            "id": "fb136c7d868e04a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Querys para overpass turbo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Querys para overpass turbo"
+            }
+          },
+          {
+            "id": "87933494ddbd73a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/proyecto/decisiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "decisiones"
+            }
+          },
+          {
+            "id": "cd26bc42a86f874f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p-013",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Querys para overpass turbo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Querys para overpass turbo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -259,6 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Querys para overpass turbo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -286,43 +263,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "48a3ca3d08e572a9",
+  "active": "fb136c7d868e04a3",
   "lastOpenFiles": [
+    "Querys para overpass turbo.md",
     "wiki/overview.md",
-    "Prompt 1.md",
-    "raw/hualaihue2.geojson",
-    "hualaihue2.geojson",
-    "wiki/dominio/conceptos/conservacion-privada.md",
-    "lint.py",
-    "wiki/log.md",
     "wiki/index.md",
-    "wiki/proyecto/preguntas-abiertas.md",
+    "wiki/log.md",
+    "wiki/proyecto/proyecto-mvp-usach-ia-2026.md",
     "wiki/proyecto/decisiones.md",
     "wiki/proyecto/caso-de-estudio.md",
-    "wiki/proyecto/proyecto-mvp-usach-ia-2026.md",
-    "Sin título.md",
-    "wiki/dominio/conceptos/humedal-urbano.md",
-    "wiki/dominio/conceptos/amcp-mu.md",
-    "wiki/dominio/conceptos/parque-nacional.md",
-    "Sin nombre",
-    "wiki/dominio/conceptos/calidad-de-datos-osm.md",
-    "wiki/dominio/conceptos/solapamiento-de-areas-protegidas.md",
-    "wiki/dominio/conceptos/categorias-de-proteccion-osm.md",
-    "wiki/dominio/conceptos/figuras-de-proteccion-chile.md",
-    "wiki/dominio/entidades/donacion-tompkins-2018.md",
     "wiki/dominio/entidades/fundacion-huinay.md",
-    "wiki/dominio/entidades/conaf.md",
-    "wiki/dominio/entidades/huinay.md",
-    "wiki/dominio/entidades/contao.md",
-    "wiki/dominio/entidades/hornopiren.md",
-    "wiki/dominio/entidades/hualaihue.md",
-    "wiki/dominio/entidades/plaza-contao.md",
+    "wiki/dominio/entidades/carretera-austral.md",
+    "wiki/sintesis/conectividad-de-hualaihue.md",
+    "wiki/dominio/conceptos/humedal-urbano.md",
+    "wiki/dominio/entidades/municipalidad-de-hualaihue.md",
+    "wiki/sintesis/acceso-a-servicios.md",
+    "wiki/fuentes/2026-09-20-osm-hualaihue2.md",
+    "wiki/sintesis/ruta-puelche-pumalin.md",
+    "wiki/dominio/entidades/rio-blanco.md",
+    "wiki/dominio/entidades/transbordadores-de-hualaihue.md",
+    "wiki/proyecto/preguntas-abiertas.md",
+    "wiki/fuentes/2026-09-20-osm-hualaihue3.md",
+    "wiki/fuentes/2026-09-20-osm-hualaihue1.md",
     "wiki/dominio/entidades/plaza-de-armas-hornopiren.md",
+    "wiki/dominio/conceptos/red-vial-de-hualaihue.md",
+    "raw/hualaihue3.geojson",
+    "wiki/dominio/conceptos/turismo-en-hualaihue.md",
+    "wiki/dominio/conceptos/poblacion-de-hualaihue.md",
+    "wiki/dominio/entidades/la-poza.md",
+    "wiki/dominio/entidades/rolecha.md",
+    "wiki/sintesis",
+    "raw/hualaihue2.geojson",
+    "hualaihue2.geojson",
+    "lint.py",
+    "Sin nombre",
     "wiki/dominio/entidades",
     "wiki/dominio/conceptos",
     "wiki/proyecto",
-    "wiki/fuentes",
-    "wiki/dominio",
-    "wiki"
+    "wiki/fuentes"
   ]
 }

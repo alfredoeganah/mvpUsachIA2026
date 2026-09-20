@@ -2,7 +2,7 @@
 tipo: entidad
 subtipo: area-protegida
 tags: [hualaihue, conservacion, snaspe, parque-nacional, pumalin, tompkins]
-fuentes: ["[[2026-09-20-osm-hualaihue1]]"]
+fuentes: ["[[2026-09-20-osm-hualaihue1]]", "[[2026-09-20-osm-hualaihue3]]"]
 osm: relation/14151682
 wikidata: Q239518
 actualizado: 2026-09-20
@@ -40,6 +40,16 @@ superficie protegida en Hualaihué. El polígono abarca desde −42,02° hasta �
 hacia el sur más allá del límite comunal y provincial. La fracción que efectivamente cae en
 Hualaihué no se puede calcular con las fuentes actuales. Ver [[preguntas-abiertas]].
 
+## Acceso
+
+Los dos transbordadores que continúan la [[carretera-austral|Carretera Austral]] hacia el sur
+desembarcan en su territorio: **Hornopirén – Leptepú** (Somarco, 3 h 30) y **Pichicolo –
+Caleta Gonzalo** (Naviera Puelche, 5 h). Leptepú y Caleta Gonzalo son las puertas del parque.
+Ver [[transbordadores-de-hualaihue]].
+
+**Sin población dentro**: ninguna de las 65 localidades mapeadas cae dentro del polígono
+([[poblacion-en-areas-protegidas]]).
+
 ## Fuentes
 
-- [[2026-09-20-osm-hualaihue1]]
+- [[2026-09-20-osm-hualaihue1]] · [[2026-09-20-osm-hualaihue3]]

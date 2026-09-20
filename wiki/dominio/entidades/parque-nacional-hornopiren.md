@@ -2,7 +2,7 @@
 tipo: entidad
 subtipo: area-protegida
 tags: [hualaihue, conservacion, snaspe, parque-nacional, hornopiren]
-fuentes: ["[[2026-09-20-osm-hualaihue1]]"]
+fuentes: ["[[2026-09-20-osm-hualaihue1]]", "[[2026-09-20-osm-hualaihue2]]"]
 osm: relation/14152413
 wikidata: Q1702881
 actualizado: 2026-09-20
@@ -41,6 +41,20 @@ Esto conecta con la creación, el mismo año, del [[parque-nacional-pumalin|Parq
 Pumalín Douglas Tompkins]]: **2018 es el año bisagra de la conservación en Hualaihué**, con
 dos actos de la misma donación Tompkins. Ver [[donacion-tompkins-2018]].
 
+## Uso público
+
+La segunda fuente registra un único punto de infraestructura del parque: el camping **Lago
+General Pinto Concha** (−41,843 / −72,344), con `operator=Parque Nacional Hornopirén`. Es la
+sola aparición de CONAF con equipamiento de uso público en todo el wiki.
+Ver [[turismo-en-hualaihue]].
+
+Su acceso terrestre es la **Ruta V-707**, nombre oficial *"Cruce Ruta 7 - Acceso a Parque
+Hornopirén"* (4,9 km) — **la única vía del territorio que existe para llegar a un área
+protegida** ([[conectividad-de-hualaihue]]).
+
+**Sin población dentro**: ninguna de las 65 localidades mapeadas cae dentro del polígono
+([[poblacion-en-areas-protegidas]]).
+
 ## Fuentes
 
-- [[2026-09-20-osm-hualaihue1]]
+- [[2026-09-20-osm-hualaihue1]] · [[2026-09-20-osm-hualaihue2]]

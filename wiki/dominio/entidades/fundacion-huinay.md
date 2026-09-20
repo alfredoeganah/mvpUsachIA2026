@@ -14,10 +14,10 @@ Fundación privada que administra las dos áreas protegidas no estatales del fio
 
 ## Áreas bajo su administración
 
-| Área | Figura | Desde | Superficie calculada |
-|---|---|---|---|
-| [[fundo-huinay]] | Conservación privada | 2001 | 31.744,5 ha |
-| [[amcp-fiordo-comau]] | AMCP-MU | 2003 | 144,1 ha |
+| Área                  | Figura               | Desde | Superficie calculada |
+| --------------------- | -------------------- | ----- | -------------------- |
+| [[fundo-huinay]]      | Conservación privada | 2001  | 31.744,5 ha          |
+| [[amcp-fiordo-comau]] | AMCP-MU              | 2003  | 144,1 ha             |
 
 Su modelo es **mar-tierra**: el predio terrestre y el área marina adyacente bajo una misma
 gestión, con régimen de uso restringido a fines científicos, ecológicos, arqueológicos,

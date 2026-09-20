@@ -2,7 +2,7 @@
 
 Este repositorio es un **wiki mantenido por LLM** sobre el territorio de la comuna de
 Hualaihué (Región de Los Lagos, Chile) y sobre el proyecto MVP USACH IA 2026 que lo usa
-como caso de estudio. Sigue el patrón descrito en [[Prompt 1]].
+como caso de estudio. Sigue el patrón descrito en [[Prompts]].
 
 **Regla base: el humano cura fuentes y hace preguntas; el LLM escribe y mantiene todo el wiki.**
 
@@ -30,6 +30,7 @@ wiki/
   dominio/
     entidades/              cosas reales: áreas protegidas, localidades, instituciones
     conceptos/              figuras legales, categorías, ecosistemas, metodologías
+  sintesis/                 análisis que cruzan dos o más fuentes
   proyecto/                 capa de proyecto: charter, decisiones, datos, preguntas
 ```
 
@@ -140,7 +141,7 @@ reemplaza su fila del catálogo por un enlace.
 
 El valor del wiki está en cruzar fuentes, no en resumirlas por separado. Cada ingesta debe
 preguntarse explícitamente **qué permite calcular ahora que antes no se podía**, y el
-resultado va a una página de síntesis propia, no escondido en la página de fuente.
+resultado va a `wiki/sintesis/`, no escondido en la página de fuente.
 
 Convenciones para los cruces geoespaciales:
 

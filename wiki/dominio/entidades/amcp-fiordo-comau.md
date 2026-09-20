@@ -52,6 +52,11 @@ dos lecturas posibles: la geometría en OSM está incompleta respecto del decret
 de la descripción corresponde a otro perímetro. **No se resuelve con la fuente actual**;
 requiere el polígono oficial del MMA. Registrado en [[preguntas-abiertas]].
 
+## Población
+
+Ninguna localidad mapeada cae dentro del área ([[poblacion-en-areas-protegidas]]). El
+asentamiento más cercano es [[huinay|Huinay]] (35 hab), en el fundo colindante.
+
 ## Relaciones
 
 - Colinda / se solapa con el [[fundo-huinay|Fundo Huinay]], de la misma fundación: el área

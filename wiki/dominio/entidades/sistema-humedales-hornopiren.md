@@ -2,7 +2,7 @@
 tipo: entidad
 subtipo: area-protegida
 tags: [hualaihue, humedal, hornopiren, urbano, ley-21202]
-fuentes: ["[[2026-09-20-osm-hualaihue1]]"]
+fuentes: ["[[2026-09-20-osm-hualaihue1]]", "[[2026-09-20-osm-hualaihue2]]"]
 osm: relation/17143122
 actualizado: 2026-09-20
 confianza: alta
@@ -38,6 +38,20 @@ Según la `description` del dato: humedal ribereño, estuarino y marino que abar
 **Cuchildeo**, **Negro** y **Blanco**, y su desembocadura en el **Canal Hornopirén**.
 Ninguno de esos cuerpos de agua tiene todavía página propia ni geometría en `raw/`.
 
+## Gente dentro y alrededor
+
+**Ninguna localidad cae dentro del polígono** ([[poblacion-en-areas-protegidas]]) — pero
+[[hornopiren|Hornopirén]] (3.629 hab) está pegada al borde, y su municipio
+([[municipalidad-de-hualaihue]]) a 500 m. Es la única de las seis áreas protegidas cuya
+gestión pasa por el gobierno local.
+
+El caserío [[rio-blanco|Río Blanco]] queda a 400 m del borde del polígono sin estar dentro,
+y lleva el nombre de uno de los tres ríos que forman el humedal.
+
+La segunda fuente registra además un mirador OSM llamado **Humedal de Cuchildeo**
+(−41,967 / −72,468), a 300 m del centro del pueblo: el humedal ya opera como atractivo
+turístico. Ver [[turismo-en-hualaihue]].
+
 ## Por qué importa para el proyecto
 
 Es el caso donde protección ambiental y planificación urbana se tocan directamente: un
@@ -47,4 +61,4 @@ Si el MVP necesita un caso con tensión real entre usos, este es el más rico. V
 
 ## Fuentes
 
-- [[2026-09-20-osm-hualaihue1]]
+- [[2026-09-20-osm-hualaihue1]] · [[2026-09-20-osm-hualaihue2]]
