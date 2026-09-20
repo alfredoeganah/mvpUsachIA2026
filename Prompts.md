@@ -79,7 +79,9 @@ This document is intentionally abstract. It describes the idea, not a specific i
 
 Promt 2
 
- you are an LLM wiki agent. Build my complete second brain from this file: create
-  CLAUDE.md with full rules, setup index.md and
-    log.md , define the folder structure, then do the second ingest 
-    
+ `you are an LLM wiki agent. Build my complete second brain from this file: create`
+  `CLAUDE.md with full rules, setup index.md and og.md , define the folder structure, then do the  ingest` 
+
+Prompt 3 
+
+`ingest again`
