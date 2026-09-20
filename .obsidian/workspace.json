@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/dominio/entidades/pichicolo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pichicolo"
+              "title": "README"
             }
           },
           {
@@ -180,9 +180,37 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "257eb1b5fcb46197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Querys para overpass turbo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Querys para overpass turbo"
+            }
+          },
+          {
+            "id": "b69d3f441fbc3671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/dominio/entidades/parque-nacional-pumalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parque-nacional-pumalin"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p-013",
+                "query": "tag:contao",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,6 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -320,6 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -347,14 +378,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ba1593c9df00afbf",
+  "active": "db4c1655d8bc81f2",
   "lastOpenFiles": [
     "README.md",
-    "Prompts.md",
-    "Querys para overpass turbo.md",
-    "CLAUDE.md",
     "wiki/dominio/entidades/pichicolo.md",
     "wiki/dominio/entidades/parque-nacional-pumalin.md",
+    "wiki/dominio/entidades/reserva-biosfera-bosques-templados-lluviosos.md",
+    "wiki/dominio/entidades/contao.md",
+    "wiki/dominio/entidades/plaza-contao.md",
+    "Querys para overpass turbo.md",
+    "Prompts.md",
+    "CLAUDE.md",
     "wiki/dominio/conceptos/turismo-en-hualaihue.md",
     "wiki/overview.md",
     "wiki/proyecto/decisiones.md",
@@ -373,9 +407,6 @@
     "wiki/sintesis/ruta-puelche-pumalin.md",
     "wiki/dominio/entidades/rio-blanco.md",
     "wiki/dominio/entidades/transbordadores-de-hualaihue.md",
-    "wiki/proyecto/preguntas-abiertas.md",
-    "wiki/fuentes/2026-09-20-osm-hualaihue3.md",
-    "wiki/fuentes/2026-09-20-osm-hualaihue1.md",
     "raw/hualaihue3.geojson",
     "wiki/sintesis",
     "raw/hualaihue2.geojson",
