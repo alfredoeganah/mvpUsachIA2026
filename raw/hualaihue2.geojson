@@ -1,0 +1,2604 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-20T19:09:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/201214929",
+        "amenity": "place_of_worship"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.7190392,
+              -41.8021476
+            ],
+            [
+              -72.7189361,
+              -41.8020996
+            ],
+            [
+              -72.7190821,
+              -41.8019256
+            ],
+            [
+              -72.7191852,
+              -41.8019736
+            ],
+            [
+              -72.7190392,
+              -41.8021476
+            ]
+          ]
+        ]
+      },
+      "id": "way/201214929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222004049",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "San Ignacio",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4152734,
+              -42.3765359
+            ],
+            [
+              -72.4152371,
+              -42.3766218
+            ],
+            [
+              -72.4147601,
+              -42.3765117
+            ],
+            [
+              -72.4147964,
+              -42.3764258
+            ],
+            [
+              -72.4152734,
+              -42.3765359
+            ]
+          ]
+        ]
+      },
+      "id": "way/222004049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265525447",
+        "addr:city": "Hualaihué",
+        "addr:street": "Lago Pinto Concha",
+        "building": "yes",
+        "name": "Hotel y Cabañas Oelckers",
+        "phone": "56 65 2217450",
+        "tourism": "hotel",
+        "website": "https://www.hoteloelckers.cl/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4723706,
+              -41.9654803
+            ],
+            [
+              -72.4722258,
+              -41.96556
+            ],
+            [
+              -72.4721185,
+              -41.9654543
+            ],
+            [
+              -72.4722633,
+              -41.9653745
+            ],
+            [
+              -72.4723706,
+              -41.9654803
+            ]
+          ]
+        ]
+      },
+      "id": "way/265525447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472808912",
+        "addr:housenumber": "133",
+        "addr:street": "Lago Pinto Concha",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2025-11-02",
+        "name": "Iglesia de Hornopirén",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4709968,
+              -41.9665786
+            ],
+            [
+              -72.4711352,
+              -41.9667288
+            ],
+            [
+              -72.4710338,
+              -41.9667804
+            ],
+            [
+              -72.4708955,
+              -41.9666302
+            ],
+            [
+              -72.4709968,
+              -41.9665786
+            ]
+          ]
+        ]
+      },
+      "id": "way/472808912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472808938",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4723599,
+              -41.96648
+            ],
+            [
+              -72.4724738,
+              -41.9665827
+            ],
+            [
+              -72.4723298,
+              -41.9666711
+            ],
+            [
+              -72.4722919,
+              -41.9666369
+            ],
+            [
+              -72.4722379,
+              -41.9666701
+            ],
+            [
+              -72.4722611,
+              -41.9667551
+            ],
+            [
+              -72.4723301,
+              -41.9668138
+            ],
+            [
+              -72.4723572,
+              -41.9667961
+            ],
+            [
+              -72.4724525,
+              -41.966877
+            ],
+            [
+              -72.4723437,
+              -41.9669479
+            ],
+            [
+              -72.4723087,
+              -41.9669181
+            ],
+            [
+              -72.4722575,
+              -41.9669515
+            ],
+            [
+              -72.4720242,
+              -41.9667535
+            ],
+            [
+              -72.4720214,
+              -41.9667113
+            ],
+            [
+              -72.4720391,
+              -41.9666769
+            ],
+            [
+              -72.4723599,
+              -41.96648
+            ]
+          ]
+        ]
+      },
+      "id": "way/472808938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677937321",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Capilla de San Pedro",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.8479123,
+              -41.922644
+            ],
+            [
+              -72.8479388,
+              -41.9228399
+            ],
+            [
+              -72.8477872,
+              -41.9228512
+            ],
+            [
+              -72.8477608,
+              -41.9226553
+            ],
+            [
+              -72.8479123,
+              -41.922644
+            ]
+          ]
+        ]
+      },
+      "id": "way/677937321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677938354",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Capilla de Chauchill",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.7936708,
+              -41.9753091
+            ],
+            [
+              -72.7937045,
+              -41.9754594
+            ],
+            [
+              -72.7936355,
+              -41.975468
+            ],
+            [
+              -72.7936018,
+              -41.9753176
+            ],
+            [
+              -72.7936708,
+              -41.9753091
+            ]
+          ]
+        ]
+      },
+      "id": "way/677938354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677938355",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Capilla el Varal",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.6626784,
+              -41.9719246
+            ],
+            [
+              -72.6626873,
+              -41.9719969
+            ],
+            [
+              -72.6625874,
+              -41.9720037
+            ],
+            [
+              -72.6625785,
+              -41.9719314
+            ],
+            [
+              -72.6626784,
+              -41.9719246
+            ]
+          ]
+        ]
+      },
+      "id": "way/677938355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/875497002",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "name": "CESFAM Hualaihué",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.6864561,
+              -42.0229048
+            ],
+            [
+              -72.6868719,
+              -42.0230243
+            ],
+            [
+              -72.6866198,
+              -42.0234806
+            ],
+            [
+              -72.686137,
+              -42.0233611
+            ],
+            [
+              -72.6862925,
+              -42.0232017
+            ],
+            [
+              -72.6862282,
+              -42.0231738
+            ],
+            [
+              -72.6864561,
+              -42.0229048
+            ]
+          ]
+        ]
+      },
+      "id": "way/875497002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/988941169",
+        "addr:city": "Hornopirén",
+        "addr:country": "CL",
+        "addr:street": "21 De Septiembre",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Ilustre Municipalidad de Hualaihué",
+        "townhall:type": "city"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4700971,
+              -41.9663894
+            ],
+            [
+              -72.4698694,
+              -41.9665223
+            ],
+            [
+              -72.4698014,
+              -41.9664579
+            ],
+            [
+              -72.4698712,
+              -41.9664172
+            ],
+            [
+              -72.469791,
+              -41.9663413
+            ],
+            [
+              -72.4699489,
+              -41.9662491
+            ],
+            [
+              -72.4700971,
+              -41.9663894
+            ]
+          ]
+        ]
+      },
+      "id": "way/988941169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242578482",
+        "addr:city": "Hualaihué",
+        "addr:country": "CL",
+        "alt_name": "Centro de Salud Familiar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CESFAM Hornopirén",
+        "name:es": "CESFAM Hornopiren",
+        "nohousenumber": "yes",
+        "official_name": "Centro de Salud Familiar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.4692066,
+              -41.9622191
+            ],
+            [
+              -72.4696072,
+              -41.9625467
+            ],
+            [
+              -72.4689386,
+              -41.9630599
+            ],
+            [
+              -72.4684394,
+              -41.962643
+            ],
+            [
+              -72.4692066,
+              -41.9622191
+            ]
+          ]
+        ]
+      },
+      "id": "way/1242578482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1376567591",
+        "addr:city": "Hualaihué",
+        "addr:street": "Carretera Austral",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Capilla de Mañihueico",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.6785114,
+              -41.7657633
+            ],
+            [
+              -72.6784382,
+              -41.7658482
+            ],
+            [
+              -72.678342,
+              -41.7657976
+            ],
+            [
+              -72.6784098,
+              -41.7657168
+            ],
+            [
+              -72.6785114,
+              -41.7657633
+            ]
+          ]
+        ]
+      },
+      "id": "way/1376567591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1417631276",
+        "addr:city": "Hualaihué",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Iglesia San José Carpintero",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3890335,
+              -42.4840401
+            ],
+            [
+              -72.3887236,
+              -42.4840623
+            ],
+            [
+              -72.3887096,
+              -42.4839555
+            ],
+            [
+              -72.3890195,
+              -42.4839333
+            ],
+            [
+              -72.3890335,
+              -42.4840401
+            ]
+          ]
+        ]
+      },
+      "id": "way/1417631276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214180777",
+        "is_in": "Chile, Latin America",
+        "name": "Lleguimán",
+        "place": "hamlet",
+        "population": "95",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7656442,
+          -41.9815267
+        ]
+      },
+      "id": "node/214180777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214181722",
+        "name": "Chauchil",
+        "place": "hamlet",
+        "population": "149",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7929853,
+          -41.9741123
+        ]
+      },
+      "id": "node/214181722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214184477",
+        "is_in": "Chile, Latin America",
+        "name": "El Estero",
+        "place": "hamlet",
+        "population": "124",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6855524,
+          -41.9993042
+        ]
+      },
+      "id": "node/214184477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214190100",
+        "is_in": "Chile, Latin America",
+        "name": "La Arena",
+        "place": "hamlet",
+        "population": "19",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4361433,
+          -42.0011543
+        ]
+      },
+      "id": "node/214190100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214202859",
+        "name": "Caleta Andrade",
+        "place": "hamlet",
+        "population": "21",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5557411,
+          -42.0792779
+        ]
+      },
+      "id": "node/214202859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214205768",
+        "name": "Punta Nao",
+        "place": "hamlet",
+        "population": "106",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8652218,
+          -41.9082126
+        ]
+      },
+      "id": "node/214205768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214205911",
+        "alt_name": "El Manzano",
+        "is_in": "Chile, Latin America",
+        "name": "Caleta Manzano",
+        "place": "hamlet",
+        "population": "329",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q21003131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6402532,
+          -42.0099572
+        ]
+      },
+      "id": "node/214205911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214213238",
+        "name": "La Poza",
+        "place": "hamlet",
+        "population": "213",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7842036,
+          -41.8497527
+        ]
+      },
+      "id": "node/214213238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214214043",
+        "name": "Pichicolo",
+        "place": "hamlet",
+        "population": "228",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5940046,
+          -42.0048034
+        ]
+      },
+      "id": "node/214214043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214216078",
+        "name": "Isla Pelada",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4959954,
+          -42.0608817
+        ]
+      },
+      "id": "node/214216078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214232449",
+        "is_in": "Chile, Latin America",
+        "name": "Llanchid",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5578267,
+          -42.0386864
+        ]
+      },
+      "id": "node/214232449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1617291223",
+        "capital": "8",
+        "name": "Hornopirén",
+        "old_name": "Río Negro",
+        "place": "town",
+        "population": "3629",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q5902291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4706795,
+          -41.9660516
+        ]
+      },
+      "id": "node/1617291223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1646490335",
+        "addr:city": "Hornopirén",
+        "addr:street": "21 de Septiembre",
+        "information": "office",
+        "name": "Información Turística",
+        "name:pt": "Informação Turística",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4702767,
+          -41.9666379
+        ]
+      },
+      "id": "node/1646490335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655493415",
+        "name": "Humedal de Cuchildeo",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4683489,
+          -41.9671978
+        ]
+      },
+      "id": "node/1655493415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655499332",
+        "name": "Cascada",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3951972,
+          -41.9383413
+        ]
+      },
+      "id": "node/1655499332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656983401",
+        "name": "Contao",
+        "place": "village",
+        "population": "784",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7186955,
+          -41.8024607
+        ]
+      },
+      "id": "node/1656983401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657068268",
+        "name": "Rio",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5648505,
+          -41.9853481
+        ]
+      },
+      "id": "node/1657068268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745082273",
+        "name": "Huinay",
+        "place": "hamlet",
+        "population": "35",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q5935116",
+        "wikipedia": "es:Huinay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4149022,
+          -42.3767591
+        ]
+      },
+      "id": "node/1745082273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745117006",
+        "name": "Cholgo",
+        "place": "hamlet",
+        "population": "35",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4572807,
+          -42.0878065
+        ]
+      },
+      "id": "node/1745117006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745117069",
+        "name": "Pichanco",
+        "place": "hamlet",
+        "population": "17",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.462469,
+          -42.1391314
+        ]
+      },
+      "id": "node/1745117069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745117076",
+        "name": "Vodudahue",
+        "place": "hamlet",
+        "population": "100",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q20760557",
+        "wikipedia": "es:Vodudahue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3925932,
+          -42.489953
+        ]
+      },
+      "id": "node/1745117076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745126870",
+        "alt_name": "Puelche",
+        "name": "Caleta Puelche",
+        "place": "hamlet",
+        "population": "159",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6498535,
+          -41.7422097
+        ]
+      },
+      "id": "node/1745126870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745126900",
+        "name": "Rolecha",
+        "place": "hamlet",
+        "population": "227",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q21003587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8463505,
+          -41.9198901
+        ]
+      },
+      "id": "node/1745126900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745126908",
+        "name": "Aulén",
+        "place": "hamlet",
+        "population": "396",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8067775,
+          -41.8776496
+        ]
+      },
+      "id": "node/1745126908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745126989",
+        "name": "Chaucahue",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5549474,
+          -42.1023117
+        ]
+      },
+      "id": "node/1745126989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745127046",
+        "name": "Chaiguaco",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4243453,
+          -41.9628783
+        ]
+      },
+      "id": "node/1745127046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1745127048",
+        "name": "El Puerto",
+        "place": "hamlet",
+        "population": "179",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6880364,
+          -42.0254519
+        ]
+      },
+      "id": "node/1745127048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2125869245",
+        "name": "Mirador Contao",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.724637,
+          -41.8022591
+        ]
+      },
+      "id": "node/2125869245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810225769",
+        "caravans": "no",
+        "contact:facebook": "Glamping-Ma%C3%B1ihueico-108018244985763",
+        "contact:instagram": "glampingmanihueico",
+        "fee": "yes",
+        "name": "Camping Mañihueico",
+        "phone": "+56 9 7789 3113",
+        "static_caravans": "no",
+        "tents": "yes",
+        "tourism": "camp_site",
+        "website": "https://www.glampingmanihueico.cl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6773532,
+          -41.7661546
+        ]
+      },
+      "id": "node/2810225769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810226282",
+        "name": "Hotel Hornopirén",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4677701,
+          -41.9656334
+        ]
+      },
+      "id": "node/2810226282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810226283",
+        "name": "Cabañas Lehuan",
+        "name:es": "Cabañas Lahuan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4670062,
+          -41.9644084
+        ]
+      },
+      "id": "node/2810226283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903072297",
+        "name": "Isla Manzano",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6461938,
+          -42.0171423
+        ]
+      },
+      "id": "node/2903072297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050845164",
+        "internet_access": "yes",
+        "name": "Cabañas Oelckerls",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4688396,
+          -41.9670256
+        ]
+      },
+      "id": "node/4050845164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050880092",
+        "addr:city": "Hornopirén",
+        "addr:street": "Diego Portales",
+        "name": "Residencial Nicol",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4695002,
+          -41.966236
+        ]
+      },
+      "id": "node/4050880092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4064397752",
+        "name": "Camping El Tagano",
+        "phone": "+56 9 9510 8014",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4890781,
+          -41.9567224
+        ]
+      },
+      "id": "node/4064397752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213256239",
+        "name": "Lago General Pinto Concha",
+        "operator": "Parque Nacional Hornopirén",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3436895,
+          -41.8431195
+        ]
+      },
+      "id": "node/4213256239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4617428448",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6817222,
+          -41.9542364
+        ]
+      },
+      "id": "node/4617428448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4617428449",
+        "contact:instagram": "ecocampingpichicolo",
+        "name": "Eco Camping Pichicolo",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5944625,
+          -42.0000452
+        ]
+      },
+      "id": "node/4617428449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4647685690",
+        "name": "Bosque Nativo",
+        "name:es": "Bosque Nativo",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4572909,
+          -41.9494639
+        ]
+      },
+      "id": "node/4647685690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683209090",
+        "name": "Camping La Vega",
+        "name:es": "Camping La Vega",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4569944,
+          -41.944588
+        ]
+      },
+      "id": "node/4683209090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691528493",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "email": "martinahornopiren@gmail.com",
+        "internet_access": "yes",
+        "name": "Camping Doña Martina",
+        "name:es": "Doña Martina",
+        "phone": "652217273",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4669178,
+          -41.9624284
+        ]
+      },
+      "id": "node/4691528493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272085921",
+        "caravans": "no",
+        "drinking_water": "yes",
+        "name": "Camping Vista a Río",
+        "phone": "+56 9 8450 5712",
+        "power_supply": "yes",
+        "shower": "yes",
+        "tents": "yes",
+        "toilets": "yes",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4761561,
+          -41.9653834
+        ]
+      },
+      "id": "node/5272085921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338160421",
+        "name": "Camping Nicol",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4694415,
+          -41.9663547
+        ]
+      },
+      "id": "node/5338160421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5359623693",
+        "name": "Cabanas Carola",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4580447,
+          -41.9514289
+        ]
+      },
+      "id": "node/5359623693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425911421",
+        "name": "Rio Blanco",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3935884,
+          -41.9418508
+        ]
+      },
+      "id": "node/5425911421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425916121",
+        "name": "Cascada Lancuyen",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4076712,
+          -41.9075789
+        ]
+      },
+      "id": "node/5425916121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679350",
+        "alt_name": "Llancahué",
+        "name": "Caleta Llancahué",
+        "place": "hamlet",
+        "population": "24",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q21003324",
+        "wikipedia": "es:Llancahué"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5135561,
+          -42.0739431
+        ]
+      },
+      "id": "node/5436679350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679351",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4837408,
+          -42.0922292
+        ]
+      },
+      "id": "node/5436679351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679352",
+        "name": "Manila",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4929858,
+          -42.0985409
+        ]
+      },
+      "id": "node/5436679352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679354",
+        "name": "Quiaca",
+        "place": "hamlet",
+        "population": "60",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4960005,
+          -42.1685803
+        ]
+      },
+      "id": "node/5436679354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679355",
+        "name": "Baltazar",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5883865,
+          -42.1153437
+        ]
+      },
+      "id": "node/5436679355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679356",
+        "name": "Puerto Bonito",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5748199,
+          -42.1312947
+        ]
+      },
+      "id": "node/5436679356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679357",
+        "name": "Puntilla Pichicolo",
+        "place": "hamlet",
+        "population": "109",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6042652,
+          -42.0377555
+        ]
+      },
+      "id": "node/5436679357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679358",
+        "name": "Puntilla Quillón",
+        "place": "hamlet",
+        "population": "69",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6375246,
+          -42.0253237
+        ]
+      },
+      "id": "node/5436679358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679361",
+        "name": "Quetén",
+        "place": "hamlet",
+        "population": "97",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8008497,
+          -41.9438829
+        ]
+      },
+      "id": "node/5436679361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679362",
+        "name": "Isla Caicura",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6843345,
+          -41.7267349
+        ]
+      },
+      "id": "node/5436679362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679363",
+        "name": "Curamin",
+        "place": "hamlet",
+        "population": "140",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8243727,
+          -41.8941854
+        ]
+      },
+      "id": "node/5436679363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679364",
+        "name": "Tentelhue",
+        "place": "hamlet",
+        "population": "141",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.845943,
+          -41.9035228
+        ]
+      },
+      "id": "node/5436679364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679365",
+        "name": "Isla Aulén",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.818681,
+          -41.8776935
+        ]
+      },
+      "id": "node/5436679365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679366",
+        "name": "Costa Llanchid",
+        "place": "hamlet",
+        "population": "34",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.589792,
+          -42.0518977
+        ]
+      },
+      "id": "node/5436679366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679367",
+        "name": "Isla Malomacún",
+        "place": "hamlet",
+        "population": "38",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6236308,
+          -42.0557375
+        ]
+      },
+      "id": "node/5436679367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679368",
+        "name": "Isla Linguar",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6198918,
+          -42.0658736
+        ]
+      },
+      "id": "node/5436679368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679369",
+        "name": "Quildaco Bajo",
+        "place": "hamlet",
+        "population": "84",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7905393,
+          -41.8678351
+        ]
+      },
+      "id": "node/5436679369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679371",
+        "name": "Chagual",
+        "place": "hamlet",
+        "population": "61",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7570224,
+          -41.8200073
+        ]
+      },
+      "id": "node/5436679371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679373",
+        "name": "Mañihueico",
+        "place": "hamlet",
+        "population": "169",
+        "population:date": "2017",
+        "source:population": "INE",
+        "wikidata": "Q21003387",
+        "wikipedia": "es:Mañihueico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6779401,
+          -41.7652781
+        ]
+      },
+      "id": "node/5436679373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679374",
+        "name": "Quidaco Alto",
+        "place": "hamlet",
+        "population": "47",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6937652,
+          -41.8942992
+        ]
+      },
+      "id": "node/5436679374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679375",
+        "name": "Purne",
+        "place": "hamlet",
+        "population": "36",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.744534,
+          -41.9914585
+        ]
+      },
+      "id": "node/5436679375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679376",
+        "name": "Cheñue",
+        "place": "hamlet",
+        "population": "38",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7170468,
+          -42.0023343
+        ]
+      },
+      "id": "node/5436679376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679377",
+        "name": "El Varal",
+        "place": "hamlet",
+        "population": "112",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6626516,
+          -41.9718391
+        ]
+      },
+      "id": "node/5436679377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679378",
+        "name": "Pichicolo Ahuida",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5651694,
+          -41.9863867
+        ]
+      },
+      "id": "node/5436679378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679379",
+        "name": "Pichicolo Alto",
+        "place": "hamlet",
+        "population": "20",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5107742,
+          -41.9492772
+        ]
+      },
+      "id": "node/5436679379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679380",
+        "alt_name": "Chaqueigua Alto",
+        "name": "Chaqueihua Alto",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4007339,
+          -41.8945787
+        ]
+      },
+      "id": "node/5436679380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679381",
+        "name": "Río Blanco",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4154924,
+          -41.9335015
+        ]
+      },
+      "id": "node/5436679381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679382",
+        "alt_name": "Chaqueigua",
+        "name": "Chaqueihua",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4071846,
+          -41.911685
+        ]
+      },
+      "id": "node/5436679382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679383",
+        "name": "Lago Cabrera",
+        "place": "hamlet",
+        "population": "101",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4740494,
+          -41.928936
+        ]
+      },
+      "id": "node/5436679383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679384",
+        "name": "Los Canelos",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4356015,
+          -41.9384929
+        ]
+      },
+      "id": "node/5436679384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436679385",
+        "name": "Mariquita",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.443794,
+          -42.0308704
+        ]
+      },
+      "id": "node/5436679385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5489813121",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4741191,
+          -41.9715538
+        ]
+      },
+      "id": "node/5489813121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039001",
+        "place": "isolated_dwelling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5565969,
+          -42.1353604
+        ]
+      },
+      "id": "node/5933039001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039002",
+        "name": "Río Negro Poniente",
+        "place": "hamlet",
+        "population": "35",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4846977,
+          -41.960607
+        ]
+      },
+      "id": "node/5933039002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039003",
+        "name": "Pichicolo Sur",
+        "place": "hamlet",
+        "population": "61",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5814423,
+          -42.0062548
+        ]
+      },
+      "id": "node/5933039003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039004",
+        "name": "Cubero",
+        "place": "hamlet",
+        "population": "89",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7074605,
+          -42.0180029
+        ]
+      },
+      "id": "node/5933039004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039005",
+        "name": "Punta Poe",
+        "place": "hamlet",
+        "population": "21",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7423775,
+          -41.9966734
+        ]
+      },
+      "id": "node/5933039005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039006",
+        "name": "Punta Hurón",
+        "place": "hamlet",
+        "population": "32",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8610947,
+          -41.9239036
+        ]
+      },
+      "id": "node/5933039006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039011",
+        "name": "Estero Soto",
+        "place": "hamlet",
+        "population": "113",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8162804,
+          -41.8836027
+        ]
+      },
+      "id": "node/5933039011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039012",
+        "name": "Quildaco Muy",
+        "place": "hamlet",
+        "population": "84",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7959118,
+          -41.8690754
+        ]
+      },
+      "id": "node/5933039012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933039013",
+        "name": "Puñón",
+        "place": "hamlet",
+        "population": "41",
+        "population:date": "2017",
+        "source:population": "INE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7321315,
+          -41.8064374
+        ]
+      },
+      "id": "node/5933039013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994032806",
+        "name": "Termas de Llancahué",
+        "natural": "spring",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.514486,
+          -42.0752826
+        ]
+      },
+      "id": "node/5994032806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091059686",
+        "name": "Hostería  Catalina",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4775274,
+          -41.9668782
+        ]
+      },
+      "id": "node/6091059686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6109182585",
+        "description": "Viewpoint sea life spotting",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8130664,
+          -41.9548792
+        ]
+      },
+      "id": "node/6109182585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6245793687",
+        "name": "Hospedaje Pochita",
+        "opening_hours": "24/7",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4755741,
+          -41.9703078
+        ]
+      },
+      "id": "node/6245793687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299386986",
+        "addr:city": "Contao",
+        "camp_site": "serviced",
+        "caravans": "no",
+        "drinking_water": "yes",
+        "name": "Camping Río Contao",
+        "phone": "+56 978 558 401;+56 968 237 994",
+        "power_supply": "yes",
+        "shower": "yes",
+        "tents": "yes",
+        "toilets": "yes",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7113872,
+          -41.7980889
+        ]
+      },
+      "id": "node/6299386986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306449379",
+        "name": "Hospedaje Alto Manzano",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6435549,
+          -41.9933079
+        ]
+      },
+      "id": "node/6306449379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515403633",
+        "name": "Camping Hornopirén",
+        "phone": "+56 9 9233 6704",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4868381,
+          -41.9702437
+        ]
+      },
+      "id": "node/6515403633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7173342585",
+        "name": "Camping Cabañas",
+        "name:es": "Camping Cabañas Vista al Mar",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7124272,
+          -42.0103831
+        ]
+      },
+      "id": "node/7173342585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7174801186",
+        "name": "La Campana Hospedaje - Camping",
+        "operator": "Camping - Pension - Ducha",
+        "phone": "995165992",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4746988,
+          -41.9699842
+        ]
+      },
+      "id": "node/7174801186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179748285",
+        "name": "Playa de Figuras",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7161082,
+          -42.0059354
+        ]
+      },
+      "id": "node/7179748285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179749686",
+        "name": "Árboles Doblados por el Viento",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7525176,
+          -41.9868119
+        ]
+      },
+      "id": "node/7179749686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179764786",
+        "name": "Camping Punta Poe",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7375051,
+          -41.9994678
+        ]
+      },
+      "id": "node/7179764786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7181467085",
+        "name": "Wild Camping",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6818558,
+          -41.7665738
+        ]
+      },
+      "id": "node/7181467085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8069243767",
+        "name": "Rincon del Gaucho Cabañas",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5084192,
+          -41.948607
+        ]
+      },
+      "id": "node/8069243767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8554603517",
+        "name": "Lago Cabrera",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4586797,
+          -41.8673731
+        ]
+      },
+      "id": "node/8554603517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8746757717",
+        "name": "Playa La Arena",
+        "name:en": "La Arena Beach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4377084,
+          -42.0003878
+        ]
+      },
+      "id": "node/8746757717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11831855279",
+        "name": "Termas de Cahuelmó",
+        "natural": "hot_spring",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3734987,
+          -42.2534022
+        ]
+      },
+      "id": "node/11831855279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12745494152",
+        "addr:city": "Hualaihué",
+        "addr:street": "Carretera Austral",
+        "museum": "transport",
+        "name": "Museo de Veleras Chilotas",
+        "operator": "Jaime Enrique Gallardo Vargas",
+        "operator:type": "privado",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6813771,
+          -41.7668205
+        ]
+      },
+      "id": "node/12745494152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12797153457",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5185794,
+          -42.0770353
+        ]
+      },
+      "id": "node/12797153457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13027380005",
+        "name": "Estuario Río Vodudahue",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3930849,
+          -42.4770517
+        ]
+      },
+      "id": "node/13027380005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13431418730",
+        "name": "Camping Terrasol",
+        "phone": "+56 9 6895 9259",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4820633,
+          -41.9631882
+        ]
+      },
+      "id": "node/13431418730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13439659222",
+        "access": "private",
+        "backcountry": "no",
+        "camp_site": "serviced",
+        "caravans": "yes",
+        "check_date": "2026-01-09",
+        "contact:instagram": "camping.entrerios",
+        "dog": "unleashed",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "internet_access": "no",
+        "name": "Camping Entre Ríos y Arrayanes",
+        "openfire": "yes",
+        "phone": "056 9 6488 8049",
+        "picnic_table": "yes",
+        "power_supply": "yes",
+        "sanitary_dump_station": "no",
+        "shower": "yes",
+        "tents": "yes",
+        "toilets": "yes",
+        "tourism": "camp_site",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6760635,
+          -41.7648125
+        ]
+      },
+      "id": "node/13439659222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13443070218",
+        "access": "private",
+        "backcountry": "no",
+        "camp_site": "serviced",
+        "caravans": "no",
+        "check_date": "2026-01-09",
+        "contact:facebook": "100063656016537",
+        "contact:instagram": "patagoniaelcobre",
+        "drinking_water": "yes",
+        "email": "patagoniaelcobre@gmail.com",
+        "fee": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Camping Patagonia El Cobre",
+        "openfire": "no",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+56 9 8227 5152",
+        "picnic_table": "yes",
+        "power_supply": "yes",
+        "shower": "yes",
+        "tents": "yes",
+        "toilets": "yes",
+        "tourism": "camp_site",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4937849,
+          -41.9689066
+        ]
+      },
+      "id": "node/13443070218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13610070402",
+        "name": "Camping Don Nacho",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7929183,
+          -41.8667658
+        ]
+      },
+      "id": "node/13610070402"
+    }
+  ]
+}
