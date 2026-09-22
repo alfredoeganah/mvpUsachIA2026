@@ -96,33 +96,8 @@
               "icon": "terminal",
               "title": "zsh"
             }
-          },
-          {
-            "id": "a391a966dd118fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c5378311768e9011",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,8 +262,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ba1593c9df00afbf",
+  "active": "ee1bcf9fc4fcae3b",
   "lastOpenFiles": [
+    "guias/Guía 04 Modelo de Negocio y Mercado AEH.docx.pdf",
+    "Guía 04 Modelo de Negocio y Mercado AEH.docx.pdf",
     "README.md",
     "Captura de Pantalla 2026-09-22 a la(s) 14.24.14.png",
     "Captura de Pantalla 2026-09-22 a la(s) 14.19.47.png",
@@ -328,7 +305,6 @@
     "raw/hualaihue3.geojson",
     "wiki/sintesis",
     "raw/hualaihue2.geojson",
-    "hualaihue2.geojson",
-    "lint.py"
+    "hualaihue2.geojson"
   ]
 }
