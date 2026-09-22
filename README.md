@@ -1,6 +1,6 @@
 # Second Brain con LLM
 
-Un **"second brain"** (o segundo cerebro) ==es un sistema digital externo que te permite guardar, organizar y recuperar la información que aprendes para no depender solo de tu memoria==.
+Un **"second brain"** (o segundo cerebro) **es un sistema digital externo que te permite guardar, organizar y recuperar la información que aprendes para no depender solo de tu memoria**.
 
 ==**Regla base: el humano agrega fuentes y hace preguntas; el LLM escribe y mantiene todo el wiki.**==
 
