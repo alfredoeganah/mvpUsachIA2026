@@ -98,7 +98,7 @@
             }
           },
           {
-            "id": "db4c1655d8bc81f2",
+            "id": "a391a966dd118fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,105 +112,17 @@
             }
           },
           {
-            "id": "a0b73736bffabae7",
+            "id": "c5378311768e9011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/dominio/entidades/parque-nacional-pumalin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "parque-nacional-pumalin"
-            }
-          },
-          {
-            "id": "2f79262b253e7e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Querys para overpass turbo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Querys para overpass turbo"
-            }
-          },
-          {
-            "id": "550c8fb693998bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
-            }
-          },
-          {
-            "id": "3bb5ea3c00704a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompts"
-            }
-          },
-          {
-            "id": "1b476f89de211d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "257eb1b5fcb46197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Querys para overpass turbo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Querys para overpass turbo"
-            }
-          },
-          {
-            "id": "b69d3f441fbc3671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/dominio/entidades/parque-nacional-pumalin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "parque-nacional-pumalin"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -350,7 +260,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,17 +287,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "db4c1655d8bc81f2",
+  "active": "ba1593c9df00afbf",
   "lastOpenFiles": [
     "README.md",
-    "wiki/dominio/entidades/pichicolo.md",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.24.14.png",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.19.47.png",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.19.26.png",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.19.03.png",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.18.46.png",
+    "Captura de Pantalla 2026-09-22 a la(s) 14.17.41.png",
+    "CLAUDE.md",
+    "guias/Guia 03 Prototipo TRL y Validación AEH.pdf",
+    "guias",
+    "carpeta sin título",
+    "Guia 03 Prototipo TRL y Validación AEH.pdf",
+    "Querys para overpass turbo.md",
+    "Prompts.md",
     "wiki/dominio/entidades/parque-nacional-pumalin.md",
+    "wiki/sintesis/ruta-puelche-pumalin.md",
+    "wiki/dominio/entidades/pichicolo.md",
     "wiki/dominio/entidades/reserva-biosfera-bosques-templados-lluviosos.md",
     "wiki/dominio/entidades/contao.md",
     "wiki/dominio/entidades/plaza-contao.md",
-    "Querys para overpass turbo.md",
-    "Prompts.md",
-    "CLAUDE.md",
     "wiki/dominio/conceptos/turismo-en-hualaihue.md",
     "wiki/overview.md",
     "wiki/proyecto/decisiones.md",
@@ -404,17 +324,11 @@
     "wiki/dominio/entidades/municipalidad-de-hualaihue.md",
     "wiki/sintesis/acceso-a-servicios.md",
     "wiki/fuentes/2026-09-20-osm-hualaihue2.md",
-    "wiki/sintesis/ruta-puelche-pumalin.md",
     "wiki/dominio/entidades/rio-blanco.md",
-    "wiki/dominio/entidades/transbordadores-de-hualaihue.md",
     "raw/hualaihue3.geojson",
     "wiki/sintesis",
     "raw/hualaihue2.geojson",
     "hualaihue2.geojson",
-    "lint.py",
-    "wiki/dominio/entidades",
-    "wiki/dominio/conceptos",
-    "wiki/proyecto",
-    "wiki/fuentes"
+    "lint.py"
   ]
 }
