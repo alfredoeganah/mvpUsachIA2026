@@ -2,10 +2,13 @@
 
 Un **"second brain"** (o segundo cerebro) **es un sistema digital externo que te permite guardar, organizar y recuperar la información que aprendes para no depender solo de tu memoria**.
 
-**Regla base: el humano agrega fuentes y hace preguntas; el LLM escribe y mantiene todo el wiki.**
+**Regla base: el humano agrega fuentes y hace preguntas; el LLM escribe y mantiene todo un grafo de información y una wiki.**
 
 
 <img width="859" height="740" alt="Captura de Pantalla 2026-09-22 a la(s) 14 24 14" src="https://github.com/user-attachments/assets/551916fc-3cb6-44de-b271-f0fd3ad44981" />
+
+
+Basado en: https://github.com/julianoczkowski/karpathy-llm-wiki
 
 
 Primeramente, para preparar el cerebro digital, se le indican al Claude los prompts que determinan el comportamiento, el cómo se van haciendo la ingesta incremental de las fuentes, y actualizando el wiki.
@@ -24,7 +27,11 @@ Query 3: Conectividad (Carretera Austral, Rutas Marítimas y Senderos)
 <img width="1021" height="666" alt="Captura de Pantalla 2026-09-22 a la(s) 14 17 41" src="https://github.com/user-attachments/assets/260cc800-be7c-40ad-92d3-8b52bfd23934" />
 
 
-Luego las consultas al LLM vía promt relacionado a los datos fuentes entregados,.
+El operador agrega nuevo contenido en la carpeta raw, para hacer un Ingest, donde se actualiza solo lo nuevo agregado, generando los cambios y ajustes necesarios en el grafo, acorde al contenido ya sean imagenes, pdfs, jsons, etc.
+
+También el modelo genera las páginas necesarias para navegar el wiki con el nuevo contenido, obtiene preguntas relevantes para el operador, y busca increongruencias en el contenido, entre otras.
+
+Posteriormente todas las consultas de negocio se realican en el LLM, que entrega una respuesta completa con la información relacionada del Second Brain, basado solo en el contenido entregado, y con la posibilidad de guardar ese contenido como parte del Cerebro digital para posterior uso.
 
   
 
